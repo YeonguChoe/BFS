@@ -1,1 +1,1 @@
-# BFS
+# Breadth-first search
